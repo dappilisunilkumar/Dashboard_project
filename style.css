@@ -27,7 +27,7 @@ body {
 
 
 .header h1 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin-bottom: 8px;
 }
 
